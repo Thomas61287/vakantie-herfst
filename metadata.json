@@ -1,0 +1,6 @@
+{
+  "name": "Herfstvakantie Vriendentrip Planner",
+  "description": "Volledig 3-dagen en 2-nachten masterplan voor een 17-jarigen vriendentrip naar de Eifel en Nürburgring vanuit Sittard inclusief contactloze villa's met sleutelkluis, restaurants en activiteiten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
